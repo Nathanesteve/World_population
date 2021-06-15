@@ -1,5 +1,7 @@
 # **World population**
 
+Interactive map, html file
+
 ## Europe
 ![image](/example/europe_map.png)
 
